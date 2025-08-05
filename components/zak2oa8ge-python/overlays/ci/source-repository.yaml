@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zak2oa8ge-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zak2oa8ge-python
